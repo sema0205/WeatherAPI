@@ -1,0 +1,12 @@
+{
+  "cities": [
+    "Moscow",
+    "Saint Petersburg",
+    "Kazan"
+  ],
+  "update_freq": 10,
+  "for_days": 1,
+  "api-key": "UoPeNMOlIvW1UfHrZrj3qQ==cxlqFp3owGCw41Gd",
+  "city_api": "https://api.api-ninjas.com/v1/city",
+  "meteo_api": "https://api.open-meteo.com/v1/forecast"
+}
